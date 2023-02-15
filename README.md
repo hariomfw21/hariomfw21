@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact I am very dedicated
 
-- ⭐ <a href="http://hariomfw21.github.io/">Click here to see my portfolio</a>
+- ⭐ <a href="https://hariomfw21.github.io/">Click here to see my portfolio</a>
 
 
 

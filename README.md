@@ -1,9 +1,9 @@
-<h1 align="center">Hi👋 नमस्ते🙏 કેમ છો? I'm Hariom Kumar</h1>
+<h1 align="center">Hi👋 नमस्ते🙏 I'm Hariom Kumar</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India 🇮🇳 </h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=prernadave&label=Profile%20views&color=0e75b6&style=flat" alt="hariom" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=hariomfw21&label=Profile%20views&color=0e75b6&style=flat" alt="hariom" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prernadave" alt="prernadave" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hariomfw21" alt="hariomfw21" /></a> </p>
 
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -25,7 +25,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/hariomkr/ target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt=https://www.linkedin.com/in/prerna-dave-3765aa237/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hariomkr/ target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hariomkr" height="30" width="40" /></a>
 </p>
 
 <br/>
@@ -73,15 +73,15 @@
 ## 📊 My Github Stats
 
 <p align="center">
-    <a href="https://github.com/prernadave/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="prerna's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=prernadave&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/hariomfw21/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="hariom's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hariomfw21&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 
   <br/>
-    <a href="https://github.com/prernadave/github-readme-stats"><img alt="prerna's Github Stats" src="https://github-readme-stats.vercel.app/api?username=prernadave&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/prernadave/github-readme-stats"><img alt="prerna's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prernadave&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/hariomfw21/github-readme-stats"><img alt="hariom's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hariomfw21&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/hariomfw21/github-readme-stats"><img alt="hariom's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariomfw21&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 
 

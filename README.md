@@ -7,7 +7,7 @@
 
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning NodeJS ,HTML,CSS,Javascript
+- 🌱 I’m currently learning NodeJS, React, React Natvie, HTML,CSS,Javascript
 
 - 👨‍💻 All of my projects are available at https://hariomfw21.github.io/
 
